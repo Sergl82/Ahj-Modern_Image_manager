@@ -1,0 +1,2 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/uy18k2f4w5p8x4ls?svg=true)](https://ci.appveyor.com/project/Sergl82/ahj-modern-image-manager)
+https://sergl82.github.io/Ahj-Modern_Image_manager/
